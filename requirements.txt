@@ -1,0 +1,4 @@
+praw
+openai
+fpdf
+python-dotenv
